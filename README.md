@@ -19,3 +19,34 @@ The main goals here were to learn the basics of HTML and CSS so that I could cre
 
 ## Mobile Behavior
 ![enter image description here](https://github.com/felipemsalles/iTravel-Website/blob/main/assets/gif-mobile.gif?raw=true)
+
+
+# Google Glass Website
+*First Project using HTML and CSS to create a simple website:*
+ 
+**HOME | INÍCIO**
+
+![home](home.jpg)
+
+**SPECIFICATIONS | ESPECIFICAÇÕES**
+
+![specifications](specifications.jpg)
+
+![informations](informations.jpg)
+
+**PHOTOS | FOTOS**
+
+![photos](photos.jpg)
+
+**MULTIMEDIA | MULTIMÍDIA**
+
+![videos](videos.jpg)
+
+**CONTACT US | FALE CONOSCO**
+
+![contactus1](contactus1.jpg)
+
+![contactus2](contactus2.jpg)
+
+
+**Thank  you | Obrigado!**
