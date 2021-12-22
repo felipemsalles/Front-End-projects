@@ -1,6 +1,6 @@
 # Front End projects
-My Front end projects.
-# iTravel Website!
+
+## iTravel Website!
 
 Hi! This is a project developed with the intetion to learn about **HTML and CSS**. It was an incredible experience to work with the design of the website as a whole and also to research and understand how to choose good colors to compose the website.
 
@@ -15,38 +15,38 @@ The main goals here were to learn the basics of HTML and CSS so that I could cre
   - The site contact section uses a map to show the address. So, I used Google Maps integration and documentation. 
  - Media queries:
    - All the website is responsive for smartphones, tablets and desktops.
-## Desktop Behavior![enter image description here](https://github.com/felipemsalles/iTravel-Website/blob/main/assets/gif-desktop.gif?raw=true)
+## Desktop Behavior![desktop](https://github.com/felipemsalles/iTravel-Website/blob/main/assets/gif-desktop.gif?raw=true)
 
 ## Mobile Behavior
-![enter image description here](https://github.com/felipemsalles/iTravel-Website/blob/main/assets/gif-mobile.gif?raw=true)
+![mobile](https://github.com/felipemsalles/iTravel-Website/blob/main/assets/gif-mobile.gif?raw=true)
 
 
-# Google Glass Website
+## Google Glass Website
 *First Project using HTML and CSS to create a simple website:*
  
 **HOME | INÍCIO**
 
-![home](home.jpg)
+![home](https://github.com/felipemsalles/Front-End-projects/blob/main/Google%20Glass%20Website/home.jpg)
 
 **SPECIFICATIONS | ESPECIFICAÇÕES**
 
-![specifications](specifications.jpg)
+![specifications](https://github.com/felipemsalles/Front-End-projects/blob/main/Google%20Glass%20Website/specifications.jpg)
 
-![informations](informations.jpg)
+![informations](https://github.com/felipemsalles/Front-End-projects/blob/main/Google%20Glass%20Website/informations.jpg)
 
 **PHOTOS | FOTOS**
 
-![photos](photos.jpg)
+![photos](https://github.com/felipemsalles/Front-End-projects/blob/main/Google%20Glass%20Website/photos.jpg)
 
 **MULTIMEDIA | MULTIMÍDIA**
 
-![videos](videos.jpg)
+![videos](https://github.com/felipemsalles/Front-End-projects/blob/main/Google%20Glass%20Website/videos.jpg)
 
 **CONTACT US | FALE CONOSCO**
 
-![contactus1](contactus1.jpg)
+![contactus1](https://github.com/felipemsalles/Front-End-projects/blob/main/Google%20Glass%20Website/contactus1.jpg)
 
-![contactus2](contactus2.jpg)
+![contactus2](https://github.com/felipemsalles/Front-End-projects/blob/main/Google%20Glass%20Website/contactus2.jpg)
 
 
-**Thank  you | Obrigado!**
+
