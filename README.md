@@ -15,10 +15,10 @@ The main goals here were to learn the basics of HTML and CSS so that I could cre
   - The site contact section uses a map to show the address. So, I used Google Maps integration and documentation. 
  - Media queries:
    - All the website is responsive for smartphones, tablets and desktops.
-## Desktop Behavior![desktop](https://github.com/felipemsalles/iTravel-Website/blob/main/assets/gif-desktop.gif?raw=true)
+## Desktop Behavior![desktop](https://github.com/felipemsalles/Front-End-projects/blob/main/iTravel%20Website/assets/gif-desktop.gif?raw=true)
 
 ## Mobile Behavior
-![mobile](https://github.com/felipemsalles/iTravel-Website/blob/main/assets/gif-mobile.gif?raw=true)
+![mobile](https://github.com/felipemsalles/Front-End-projects/blob/main/iTravel%20Website/assets/gif-mobile.gif?raw=true)
 
 
 ## Google Glass Website
